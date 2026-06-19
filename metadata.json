@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris",
+  "description": "High-fidelity, offline-first personal device automation agent with terminal execution logs, customizable voice wake-words, local sqlite script storage, and secure serverless Gemini command compilation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
